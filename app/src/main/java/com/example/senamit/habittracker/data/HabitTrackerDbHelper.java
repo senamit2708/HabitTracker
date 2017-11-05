@@ -32,3 +32,4 @@ public class HabitTrackerDbHelper extends SQLiteOpenHelper {
         onCreate(db);
     }
 }
+

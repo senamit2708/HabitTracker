@@ -34,7 +34,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Habit Name"
+                android:text="@string/habitName"
                 android:textStyle="bold" />
 
             <EditText
@@ -59,7 +59,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Days Required"
+                android:text="@string/habitDays"
                 android:textStyle="bold" />
 
             <EditText
@@ -81,3 +81,4 @@
     </LinearLayout>
 
 </LinearLayout>
+

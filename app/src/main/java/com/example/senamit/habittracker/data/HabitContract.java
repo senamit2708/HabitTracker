@@ -14,3 +14,4 @@ public class HabitContract {
         public static final String COLUMN_NUMBER_OF_DAYS = "NoOfDays";
     }
 }
+
